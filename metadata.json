@@ -1,0 +1,6 @@
+{
+  "name": "MessBook",
+  "description": "A comprehensive Bengali-language mess (group) management platform for tracking meals, expenses, and monthly settlements independently with smart AI analysis insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
